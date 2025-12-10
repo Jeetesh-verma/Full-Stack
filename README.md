@@ -2,6 +2,21 @@
 
 A React-based news aggregator application with full CRUD operations using JSON Server as the backend.
 
+## 🎥 Demo Videos & Documentation
+
+### Code Explanation
+Watch a detailed walkthrough of the codebase:
+
+https://github.com/Jeetesh-verma/Full-Stack/assets/Code%20explanation.mp4
+
+### Live Demo
+See the application in action:
+
+https://github.com/Jeetesh-verma/Full-Stack/assets/DEMO%20video.mp4
+
+### 📄 Project Report
+[Download the complete project report (PDF)](./newswave_report.pdf)
+
 ## Project Overview
 
 NewsWave is a modern news aggregator that allows users to:
